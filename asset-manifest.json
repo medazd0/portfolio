@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a76a532d.css",
-    "main.js": "/portfolio/static/js/main.41aa1eee.js",
+    "main.css": "/portfolio/static/css/main.b04c973a.css",
+    "main.js": "/portfolio/static/js/main.e12edbe7.js",
     "static/js/453.56f46472.chunk.js": "/portfolio/static/js/453.56f46472.chunk.js",
     "static/media/logomed.png": "/portfolio/static/media/logomed.3138909232db59abcd3c.png",
+    "static/media/MEDCV.pdf": "/portfolio/static/media/MEDCV.02f51839f310a287ed4d.pdf",
     "static/media/project-3.jpg": "/portfolio/static/media/project-3.d40ef9bdb47609537921.jpg",
     "static/media/about.jpg": "/portfolio/static/media/about.2980bcbe5d8c7053b586.jpg",
     "static/media/project-2.jpg": "/portfolio/static/media/project-2.1163c0a4ffbe03d987cf.jpg",
@@ -11,12 +12,12 @@
     "static/media/logo.png": "/portfolio/static/media/logo.4b2c264eec43487dcbe6.png",
     "static/media/project-4.jpg": "/portfolio/static/media/project-4.cee9d1175731475a650f.jpg",
     "index.html": "/portfolio/index.html",
-    "main.a76a532d.css.map": "/portfolio/static/css/main.a76a532d.css.map",
-    "main.41aa1eee.js.map": "/portfolio/static/js/main.41aa1eee.js.map",
+    "main.b04c973a.css.map": "/portfolio/static/css/main.b04c973a.css.map",
+    "main.e12edbe7.js.map": "/portfolio/static/js/main.e12edbe7.js.map",
     "453.56f46472.chunk.js.map": "/portfolio/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a76a532d.css",
-    "static/js/main.41aa1eee.js"
+    "static/css/main.b04c973a.css",
+    "static/js/main.e12edbe7.js"
   ]
 }
