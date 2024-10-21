@@ -11,7 +11,7 @@ return (
        className="text-center text-4xl my-10">
       Projects
      </motion.h2>
-        {/* <div >
+        { <div >
          {
           PROJECTS.map((proj,index)=>(
          <div className='mb-8 flex flex-wrap lg:justify-center' key={index}>
@@ -44,7 +44,7 @@ return (
 
           ))
          }
-        </div> */}
+        </div> }
 
 
 </div>

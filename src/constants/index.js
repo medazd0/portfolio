@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/project-1.png";
+import project2 from "../assets/projects/project-2.png";
+import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `I am a passionate software engineer specializing in full stack development and creating high-performance, scalable web applications. My skills include front-end technologies such as React and Next.js, as well as back-end development with Node.js, MySQL, and PHP. I also have proficiency in several programming languages, including C, C++, Java, JavaScript, along with tools such as HTML, CSS, Tailwind CSS, SQL, and UML.
 
@@ -53,37 +53,37 @@ Location: Ait Melloul-Agadir`,
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Antheor - Plateforme Basique d'Achat d'Or et de Bijoux",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      ".",
+    technologies: ["REACT", "TailwingCss", "CSS/HTML", "JavaScript"],
   },
   {
-    title: "Task Management App",
+    title: "Pharmacy Management",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "",
+    technologies: ["JAVAFX", "JAVA", "MYSQL"],
   },
   {
-    title: "Portfolio Website",
+    title: "Web Developement for exam monitoring management",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      ".",
+    technologies: ["HTML", "CSS", "PHP", "SQL"],
   },
   {
-    title: "Blogging Platform",
+    title: " Basic Web Development for ENSA Agadir",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "",
+    technologies: ["REACT", "javaScript", "TailwingCSS", "PHP", "SQL"],
   },
 ];
 
 export const CONTACT = {
-  address: "Tizguine El Haouz ",
+  address: "Agadir ",
   phoneNo: "+212637284194 ",
-  email: "medazd0.1@gmail.com",
+  email: "m.azoud01@gmail.com",
 };

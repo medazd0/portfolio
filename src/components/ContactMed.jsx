@@ -8,7 +8,7 @@ whileInView={{opacity:1 , y:0 }}
 initial={{ opacity:0 , y: -100}}
 transition={{ duration: 1}}
 className="text-center text-3xl my-10">Get In Touch</motion.h2>
-        <div className="text-center">
+        <div className=" flex flex-col items-center space-y-0 ">
           <motion.p
           whileInView={{opacity:1 , x:0 }}
           initial={{ opacity:0 , x: -100}}
@@ -29,7 +29,7 @@ className="text-center text-3xl my-10">Get In Touch</motion.h2>
 
           
         </div>
-        <a href="/assets/MEDCV.pdf" download>Télécharger mon CV</a>
+       
 
 
 
