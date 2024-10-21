@@ -55,29 +55,53 @@ export const PROJECTS = [
   {
     title: "Antheor - Plateforme Basique d'Achat d'Or et de Bijoux",
     image: project1,
-    description:
-      ".",
+    description:(
+      <>
+        Antheor est une plateforme sécurisée pour l'achat d'or de qualité, incluant lingots et bijoux authentiques. Elle garantit des produits certifiés et une expérience d'achat fiable et transparente.<br/> <span className="text-[#A6A9AE]">Découvrez le projet sur GitHub :</span>{" "}
+        <a href="https://medazd0.github.io/antheor/" target="_blank" rel="noopener noreferrer" className="text-[#638ED5]">
+          Antheor
+        </a>
+      </>
+    ),
     technologies: ["REACT", "TailwingCss", "CSS/HTML", "JavaScript"],
   },
   {
     title: "Pharmacy Management",
     image: project2,
-    description:
-      "",
+    description:(
+    <>
+      Ce projet propose le développement d'une application de gestion de pharmacie en Java, automatisant la gestion des médicaments et des stocks tout en assurant la conformité avec les réglementations. L'objectif est d'optimiser les opérations et de réduire les erreurs pour améliorer la rentabilité et la satisfaction des clients.<br />
+      Découvrez le projet sur GitHub : 
+        <a href="https://github.com/medazd0/parapharmacyProject  " target="_blank" rel="noopener noreferrer" className="text-[#638ED5]">
+        parapharmacyProject.
+        </a>
+      </> ),
     technologies: ["JAVAFX", "JAVA", "MYSQL"],
   },
   {
     title: "Web Developement for exam monitoring management",
     image: project3,
-    description:
-      ".",
+    description:(
+      <>
+        Ce projet consiste en une application web destinée à la gestion et au suivi des examens. Il permet d'organiser les examens, de surveiller les candidats<br />
+        Découvrez le projet sur GitHub : 
+          <a href="https://github.com/medazd0/ProfExam" className="text-[#638ED5]">
+          ProfProject.
+          </a>
+        </> ),
     technologies: ["HTML", "CSS", "PHP", "SQL"],
   },
   {
     title: " Basic Web Development for ENSA Agadir",
     image: project4,
-    description:
-      "",
+    description:(
+    <>
+    Ce projet présente une procédure d'accès à l'école ainsi qu'une description des clubs et des partenaires de l'institution. Il vise à fournir des informations claires et organisées sur ces aspects essentiels.<br />
+    Découvrez le projet sur GitHub : 
+      <a href="https://github.com/medazd0/ensaaProj" className="text-[#638ED5]">
+      ensaaProj
+      </a>
+    </> ),
     technologies: ["REACT", "javaScript", "TailwingCSS", "PHP", "SQL"],
   },
 ];
