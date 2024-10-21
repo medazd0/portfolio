@@ -29,6 +29,8 @@ className="text-center text-3xl my-10">Get In Touch</motion.h2>
 
           
         </div>
+        <a href="/assets/MEDCV.pdf" download>Télécharger mon CV</a>
+
 
 
 </>
