@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b04c973a.css",
-    "main.js": "/portfolio/static/js/main.e12edbe7.js",
+    "main.css": "/portfolio/static/css/main.1787ef87.css",
+    "main.js": "/portfolio/static/js/main.19478937.js",
     "static/js/453.56f46472.chunk.js": "/portfolio/static/js/453.56f46472.chunk.js",
     "static/media/logomed.png": "/portfolio/static/media/logomed.3138909232db59abcd3c.png",
     "static/media/MEDCV.pdf": "/portfolio/static/media/MEDCV.02f51839f310a287ed4d.pdf",
-    "static/media/project-3.jpg": "/portfolio/static/media/project-3.d40ef9bdb47609537921.jpg",
+    "static/media/project-4.png": "/portfolio/static/media/project-4.3631b95a750ce9e44cc1.png",
+    "static/media/project-1.png": "/portfolio/static/media/project-1.d51cdf9d60eea1b2b62c.png",
+    "static/media/project-3.png": "/portfolio/static/media/project-3.6113d18fa8b3986c7d8e.png",
+    "static/media/project-2.png": "/portfolio/static/media/project-2.d55764470a222bc9eaea.png",
     "static/media/about.jpg": "/portfolio/static/media/about.2980bcbe5d8c7053b586.jpg",
-    "static/media/project-2.jpg": "/portfolio/static/media/project-2.1163c0a4ffbe03d987cf.jpg",
-    "static/media/project-1.jpg": "/portfolio/static/media/project-1.3d0152105bd6b879e610.jpg",
     "static/media/logo.png": "/portfolio/static/media/logo.4b2c264eec43487dcbe6.png",
-    "static/media/project-4.jpg": "/portfolio/static/media/project-4.cee9d1175731475a650f.jpg",
     "index.html": "/portfolio/index.html",
-    "main.b04c973a.css.map": "/portfolio/static/css/main.b04c973a.css.map",
-    "main.e12edbe7.js.map": "/portfolio/static/js/main.e12edbe7.js.map",
+    "main.1787ef87.css.map": "/portfolio/static/css/main.1787ef87.css.map",
+    "main.19478937.js.map": "/portfolio/static/js/main.19478937.js.map",
     "453.56f46472.chunk.js.map": "/portfolio/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b04c973a.css",
-    "static/js/main.e12edbe7.js"
+    "static/css/main.1787ef87.css",
+    "static/js/main.19478937.js"
   ]
 }
