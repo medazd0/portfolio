@@ -16,8 +16,7 @@ const container = (duration) => ({
 
 
 const Hero = () => {
- 
-
+  
   const handleDownload = () => {
     const link = document.createElement('a');
     link.href = CvMed; 
